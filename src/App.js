@@ -155,7 +155,7 @@ function MovieDetails({ selectedId, onCloseMovie, onAddWatched, watched }) {
     Released: released,
     Actors: actors,
     Director: director,
-    Genre: genre,
+    // Genre: genre,
     imdbRating,
   } = movie;
 
